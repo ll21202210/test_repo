@@ -18,3 +18,10 @@ void conflict(void)
     // user1add
     // public static void main edit u2
 }
+
+
+
+void addsecondu1()
+{
+    return 0;
+}
