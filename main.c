@@ -15,3 +15,10 @@ void conflict(void)
     // user1add
     // public static void main(String args[])
 }
+
+
+
+void addsecondu1()
+{
+    return 0;
+}
